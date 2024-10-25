@@ -1,16 +1,34 @@
-Employees Management System
+# Employees Management System
 
-Introduction
-This Employees Management System MVC application is designed to provide a comprehensive solution for managing employees and departments within your organization. With a user-friendly interface, this MVC application allows you to perform essential operations such as creating, editing, searching, and deleting employees and departments. Additionally, it keeps track of user accounts and includes user authentication functionalities like login, logout, registration and forgot password functionalities.
+### Overview
+The **Employees Management System** is a robust MVC (Model-View-Controller) application designed to streamline and manage employee and department records within an organization. This system offers a user-friendly interface to handle various tasks, including employee and department creation, updates, deletions, and searches. It also includes essential user management functionalities such as registration, login, logout, and password recovery.
 
-Features
-Create a new employee
-Edit an existing employee
-Delete an existing employee
-Search for an employee by name
-Create a new department
-Edit an existing department
-Delete an existing department
-Search for a department by name
-Register a new account
-Login with an existing account
+---
+
+### Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+  
+
+### Features
+
+- **Employee Management**
+  - Create, edit, delete, and search for employees.
+  - Search for employees by name for quick access.
+- **Department Management**
+  - Create, edit, delete, and search for departments.
+  - Search departments by name.
+- **User Authentication**
+  - Register a new account.
+  - Login and logout functionalities.
+  - Forgot password for account recovery.
+- **Security**: Built-in authentication to secure access to employee and department information.
+
+---
+
+### Technologies Used
+- **ASP.NET Core MVC**: Provides a scalable, modular MVC architecture.
+- **Entity Framework Core**: Enables data access and management.
+- **SQL Server** (or other relational databases): Stores employee and department data.
+- **Bootstrap**: For responsive front-end design.
+- **Identity Authentication**: Ensures secure user account management.
