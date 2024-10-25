@@ -1,4 +1,5 @@
 Employees Management System
+
 Introduction
 This Employees Management System MVC application is designed to provide a comprehensive solution for managing employees and departments within your organization. With a user-friendly interface, this MVC application allows you to perform essential operations such as creating, editing, searching, and deleting employees and departments. Additionally, it keeps track of user accounts and includes user authentication functionalities like login, logout, registration and forgot password functionalities.
 
